@@ -1,3 +1,7 @@
+Programa de implementacion flet para conversion de monedas
+Lo hicimos implementando los comandos flet, creando un contador de clicks con codigo, y un conversor de monedas ya integrado anteriormente. conjugando las bibliotecas
+Aprendi a correr una app en android y en un programa que nos ayuda a convertir los valores de monedas
+
 # FletPractica app
 
 ## Run the app
